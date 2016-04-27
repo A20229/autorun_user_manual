@@ -8,5 +8,5 @@
 
 |If()|
 |:-----------------:|
-|![the origin of the name](/Users/caoxiuquan/Desktop/autorun_user_manual)|
+|![the origin of the name](https://github.com/A20229/autorun_user_manual/blob/master/images/insnergy_check_new.png)|
 
